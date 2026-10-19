@@ -1,0 +1,6 @@
+{
+  "name": "Tetris Classic Neo",
+  "description": "클래식 테트리스 아케이드 게임: SRS 회전, 홀드, 고스트 블록, 콤보 및 웹 오디오 사운드 효과를 지원하는 완성도 높은 테트리스 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
